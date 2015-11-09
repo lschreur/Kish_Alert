@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KishAlert</string>
+    <string name="button_text">next</string>
+    <string name="Instruct">Instructions</string>
+    <string name="dir">Step 1 Set up kishwaukeecollege.edu \n Homework and quiz notifications\n on the MyKc website</string>
+
+</resources>
